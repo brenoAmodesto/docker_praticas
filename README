@@ -24,6 +24,5 @@
 
 - Minimize o número de camadas, isso geralmente otimiza o tamanho da imagem.
 
-- Use e abuse da camada de cache do Docker.
-<br />
+- Use e abuse da camada de cache do Docker. <br />
 </body>
