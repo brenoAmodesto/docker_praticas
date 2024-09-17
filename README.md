@@ -29,6 +29,6 @@
 <br /> Deploy de aplicação em Golang usando multistaging <br />
 <img src="https://github.com/brenoAmodesto/docker_praticas/blob/main/multi-staging/multistag-1.png" alt="">
 <img src="https://github.com/brenoAmodesto/docker_praticas/blob/main/multi-staging/multistag-2.png" alt="">
-<img src="https://github.com/brenoAmodesto/docker_praticas/blob/main/multi-staging/multistag-3.png" alt="">
+
 
 </html>
