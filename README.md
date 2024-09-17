@@ -31,5 +31,7 @@
 <img src="https://github.com/brenoAmodesto/docker_praticas/blob/main/multi-staging/multistag-2.png" alt="">
 <img src="https://github.com/brenoAmodesto/docker_praticas/blob/main/multi-staging/multistag-3.png" alt="">
 
+<br /> Deploy de aplicação Ghost docker-compose <br />
+<img src="https://github.com/brenoAmodesto/docker_praticas/blob/main/Ghost/demo-app.png" alt="">
 
 </html>
